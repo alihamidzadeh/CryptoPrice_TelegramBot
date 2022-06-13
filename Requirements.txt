@@ -1,0 +1,4 @@
+telegram~=0.0.1
+jdatetime~=4.1.0
+tracker~=0.1.1
+requests~=2.26.0
